@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @priangshu17
-- 👀 I’m interested in Programming,Crypto,Blockchain,Ethereum
-- 🌱 I’m currently learning Java Script
+- 👋 Hi, I'm Priangshu
+- 👀 I’m interested in Python, AI ML, Data Science, Data Visualization and Data Analysis
+- 🌱 I’m currently learning Linear Algebra, Python, Numpy, Pandas, SciPy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter: @PriangshuPaul17
 
