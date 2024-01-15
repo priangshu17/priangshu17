@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Priangshu
 - 👀 I’m interested in Python, AI ML, Data Science, Data Visualization and Data Analysis
-- 🌱 I’m currently learning Linear Algebra, Python, Numpy, Pandas, SciPy
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me Twitter: @PriangshuPaul17
 
 <!---
