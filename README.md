@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Priangshu
-- 👀 I’m interested in Python, AI ML, Data Science, Data Visualization and Data Analysis
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Research.
+- 🌱 I’m currently learning Convolutional Neural Network.
 - 📫 How to reach me Twitter: @PriangshuPaul17
 
 <!---
