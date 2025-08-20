@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Priangshu
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Research.
-- 🌱 I’m currently learning Convolutional Neural Network.
+- 🌱 I’m currently learning Natural Language Processing and Transformers.
 - 📫 How to reach me Twitter: @PriangshuPaul17
 
 <!---
